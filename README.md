@@ -50,6 +50,12 @@ Una herramienta de automatización de desarrollo web se refiere a un conjunto de
 ### Diagrama de Casos de Uso - Usuario Administrador
 ![Permisos_Administrador](https://github.com/03Juan2001/hola/assets/99233600/0e4ccf8c-4cec-48e2-9900-1dc94b805bb3)
 
+1. **Iniciar Sesión:** Permite al usuario administrador iniciar sesión en el sistema.
+2. **Gestionar Pruebas:** Permite al usuario administrador crear, editar y eliminar pruebas.
+3. **Gestionar Usuarios:** Permite al usuario administrador agregar, modificar y eliminar usuarios.
+4. **Ver Informes:** Permite al usuario administrador ver informes y estadísticas sobre las pruebas realizadas.
+5. **Cerrar Sesión:** Permite al usuario administrador cerrar sesión en el sistema.
+
 
 ### Patrones de Diseño
 
