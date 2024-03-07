@@ -47,6 +47,10 @@ Una herramienta de automatización de desarrollo web se refiere a un conjunto de
 
 ### UML
 
+### Diagrama de Casos de Uso - Usuario Administrador
+![Permisos_Administrador](https://github.com/03Juan2001/hola/assets/99233600/0e4ccf8c-4cec-48e2-9900-1dc94b805bb3)
+
+
 ### Patrones de Diseño
 
 1. **Patrón de Diseño Singleton**:
